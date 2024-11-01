@@ -55,7 +55,7 @@ You can download pretrained checkpoints of our method. Place these files into `c
 
 
 ```
-# Train AP-BSN for the SIDD dataset using gpu:0
+# Train Complementary-BSN for the SIDD dataset using gpu:0
 python train.py -c APBSN_SIDD -g 0
 ```
 
@@ -71,7 +71,7 @@ python test.py -c APBSN_SIDD -g 0 --pretrained Complementary_SIDD.pth
 
 ### Quantitative results
 
-Here is reported results of AP-BSN. Please refer our paper for more detailed results.
+Here is reported results of Complementary-BSN. Please refer our paper for more detailed results.
 
 ![results](./figs/results.png)
 
