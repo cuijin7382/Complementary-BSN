@@ -26,7 +26,7 @@ Our experiments are done with:
 Follow below descriptions to build code directory.
 
 ```
-AP-BSN
+Complementary-BSN
 ├─ ckpt
 ├─ conf
 ├─ dataset
